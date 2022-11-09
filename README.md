@@ -1,5 +1,5 @@
 #  Sentinel Quickstart
-I had a great time bringing value to businesses with Sentinel, and here I will try to assist you in getting started with integrating this tool into your business. Sentinel, in my experience, is excellent for increasing your employees' overall awareness and assisting in decision making.
+I had a great time bringing value to businesses with Sentinel, and here I will try to assist you in getting started with integrating this tool into your business. Sentinel, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making and providing advanced insights.
 
 I'll go over exactly what you should do to get started and get the value.
 
