@@ -3,7 +3,7 @@ I had a great time bringing value to businesses with Sentinel, and here I will t
 
 I'll go over exactly what you should do to get started and get the value.
 
-I wrote a blog about it, so read it before diving into the procedure. I provided an overview of the main components [here]().
+I wrote a blog about it, so read it before diving into the procedure. I provided an overview of the main components [here](https://github.com/Y4HYA4/Cloud_Blogs/blob/main/cl6capiny00cmfvnv9wwv9q1y.md).
 
 
 
