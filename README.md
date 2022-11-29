@@ -1,11 +1,12 @@
 #  Sentinel Quickstart
-I had a great time bringing value to businesses with Sentinel, and here I will try to assist you in getting started with integrating this tool into your business. Sentinel, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making and providing advanced insights.
+I had a great time bringing value to businesses with Sentinel, and here I will try to assist you in getting started with integrating this tool into your business. 
 
-I'll go over exactly what you should do to get started and get the value.
+Sentinel, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making, providing advanced insights and protect your entreprise from threats.
 
-I wrote about it [here](https://github.com/Y4HYA4/Cloud_Blogs/blob/main/cl6capiny00cmfvnv9wwv9q1y.md), so read it before diving into the procedure. I provided an overview of the main components.
 
-> assets to be added tomorrow
+First, browse this [documentation]() to get a sense of Sentinel components that we will be using below.
+
+
 
 ## Getting started
 
