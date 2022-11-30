@@ -4,7 +4,7 @@ I had a great time bringing value to businesses with Sentinel, and here I will t
 Sentinel, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making, providing advanced insights and protect your entreprise from threats.
 
 
-First, browse this [documentation]() to get a sense of Sentinel components that we will be using below.
+First, browse this [doc]() to get a sense of Sentinel components that we will be using below.
 
 
 
