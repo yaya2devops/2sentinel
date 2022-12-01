@@ -15,7 +15,7 @@ We'll go over some of the preliminary steps for configuring the product.
 - Ingestion of the required **connectors**.
 - Perform **analytics queries** to get alerted when threats appear.
 
-## Connectors
+# Connectors
 The first step is to import the necessary connectors before running any queries on Sentinel.
 
 <img src="assets/mainconnectorspage.png"  >
@@ -30,14 +30,14 @@ The first step is to import the necessary connectors before running any queries 
 **3-** The same is true for the configuration. However, here you can find configurations that are as simple as clicking and others that necessitate the use of APIs.
 
 
-## Analytics Rules
+# Analytics Rules
 
 The Microsoft Team is attempting to include as many Analytics rule templates as possible. However, it is nearly impossible to cover everything, so you should be aware of how to include built-in queries as well as create your own with some knowledge of KQL.
 
 
 Here i'll go through both cases.
 
-### Built-In Rules
+## Built-In Rules
 
 You can select the template provided within the product from the asset below, and it should become active in a matter of seconds.
 
@@ -46,7 +46,7 @@ Once in Sentinel, Click Analytics => Rules Templates.
 <img src="assets/analytics1.png"  >
 
 
-### Custom Analytics Rules
+## Custom Analytics Rules
 We'll walk through configuring the yaml file below, which includes all of the pipeline's parameters. 
 
 However, for this demonstration, we will conduct it as a security operation.
@@ -108,7 +108,6 @@ This query will require **Azure Active Directory** connector for it to perform.
 
 Go to Analytics but instead of templates, click **Create** then Scheduled query rule. 
 
-
 <img src="assets/Custom ana1.png" >
 
 As a best practice, refer to the pipeline and include a fit description so your team understands the role of this query.
@@ -116,7 +115,6 @@ As a best practice, refer to the pipeline and include a fit description so your 
 Choose the severity indicated. And then choose your tactics. After that, click Next to set the rule.
 
 <img src="assets/custom ana2.png"  >
-
 
 1- As for the query, once it is created, enter it in this field and wait for the product to reload.
 
@@ -146,7 +144,6 @@ In this case, I prefer sending an email to my manager about an analytics with a 
 
 <img src="assets/custom ana6.png"  >
 
-<br>
 
 ## Closure
 That should be it; your connectors and analytics should now be properly set up and configured. You can keep looking through workbooks for useful reports.
