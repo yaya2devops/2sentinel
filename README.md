@@ -124,7 +124,7 @@ Choose the severity indicated. And then choose your tactics. After that, click N
 
 Sentinel is constantly improving and incorporating artificial intelligence. When you include such queries, he will be able to identify the correct entity and map it automatically.
 
-This is extremely powerful as it allows you to not only find out what’s going on in your environment but also take action on it quickly and easily. 
+This is extremely powerful as it allows you to not only find out what’s going on in your environment but also to perform SecOps quick.
 
 Once Entities are set click Next to incidents Settings.
 
@@ -132,7 +132,7 @@ Once Entities are set click Next to incidents Settings.
 
 What is most important here is to **enable incident creation** so that you can be notified via your product home page if any threats are triggering.
 
-The second possibility is to organize your queries. I'll leave the decision to you.
+The second section is to organize your queries. This is helpful when you have tons of rules that make sense as groups. I'll leave the decision to you.
 
 <img src="assets/custom ana5.png"  >
 
