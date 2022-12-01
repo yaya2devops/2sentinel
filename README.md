@@ -6,10 +6,6 @@ Sentinel, in my experience, is excellent for increasing your employees' overall 
 
 
 
-
-
-## Getting started
-
 #  Microsoft Sentinel Technical Procedure
 ## Description
 This technical documentation will guide you through the  phase, which follows the installation of Sentinel and the workspace.
