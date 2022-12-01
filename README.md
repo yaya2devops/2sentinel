@@ -149,7 +149,6 @@ In this case, I prefer sending an email to my manager about an analytics with a 
 <br>
 
 ## Closure
-
 That should be it; your connectors and analytics should now be properly set up and configured. You can keep looking through workbooks for useful reports.
 
 
