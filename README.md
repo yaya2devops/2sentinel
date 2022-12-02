@@ -18,17 +18,32 @@ We'll go over some of the preliminary steps for configuring the product.
 # Connectors
 The first step is to import the necessary connectors before running any queries on Sentinel.
 
-<img src="assets/mainconnectorspage.png"  >
+### Quickstart Connectors 
+- Office
+- Azure Activity
+- Azure Active Directory
 
-<br>
+### Search for connectors
 
-**1-** The good news is once you connect some connectors. There will be analytics rules, workbooks as well as queries applied within the bundle.
+**1-** On the left pane, click Connectors
+
+**2-** In the search bar, where you can search for the desired connector
+
+**3-** Once found, give it a click and then open connector page
+
+<img src="assets/connectors1.png"  >
+
+
+### The Connector page
+
+**1-** The good news is once you ingest some connectors. There will be analytics rules, workbooks as well as queries applied within the connector bundle.
 
 **2-** To be configured, each connector will need its own prerequisite.
 
 
 **3-** The same is true for the configuration. However, here you can find configurations that are as simple as clicking and others that necessitate the use of APIs.
 
+<img src="assets/mainconnectorspage.png"  >
 
 # Analytics Rules
 
