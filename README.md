@@ -7,13 +7,15 @@ Sentinel, in my experience, is excellent for increasing your employees' overall 
 
 
 #  Microsoft Sentinel Technical Procedure
+This technical documentation will walk you through the entire process, from setting up Sentinel to operating it and using its core features.
 ## Description
-This technical documentation will guide you through the  phase, which follows the installation of Sentinel and the workspace.
 
-We'll go over some of the preliminary steps for configuring the product.
+We'll go over the preliminary steps for configuring the product.
 
+- Initialize the product on your entreprise Microsoft Azure tenant.
 - Ingestion of the required **connectors**.
 - Perform **analytics queries** to get alerted when threats appear.
+- Operate and create **workbooks** for insightful reports.
 
 # Connectors
 The first step is to import the necessary connectors before running any queries on Sentinel.
@@ -158,6 +160,9 @@ In this case, I prefer sending an email to my manager about an analytics with a 
 **2-** When you're finished, you'll see a summary of the entire rule. Continue with the creation by clicking **Create.**
 
 <img src="assets/Custom-analytics-rule-6.png"  >
+
+
+# Workbooks
 
 
 ## Closure
