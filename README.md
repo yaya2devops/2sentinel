@@ -116,13 +116,13 @@ Choose the severity indicated. And then choose your tactics. After that, click N
 
 <img src="assets/Custom-analytics-rule-2.png"  >
 
-1- As for the query, once it is created, enter it in this field and wait for the product to reload.
+**1-** As for the query, once it is created, enter it in this field and wait for the product to reload.
 
-2- Don't forget about the Entity mapping.
+**2-** Don't forget about the Entity mapping.
 
 <img src="assets/Custom-analytics-rule-3.png"  >
 
-Sentinel is constantly improving and incorporating artificial intelligence. When you include such queries, the producct will be able to identify the correct entity and map it automatically.
+Sentinel is constantly improving and incorporating artificial intelligence. When you include such queries, the product will be able to identify the correct entity and map it automatically.
 
 This is extremely powerful as it allows you to not only find out what’s going on in your environment but also to perform SecOps quick.
 
@@ -130,17 +130,17 @@ Once Entities are set click Next to incidents Settings.
 
 <img src="assets/Custom-analytics-rule-4.png"  >
 
-What is most important here is to **enable incident creation** so that you can be notified via your product home page if any threats are triggering.
+**1-** What is most important here is to **enable incident creation** so that you can be notified via your product home page if any threats are triggering.
 
-The second section is to organize your queries. This is helpful when you have tons of rules that make sense as groups. I'll leave the decision to you.
+**2-** The second section is to organize your queries. This is helpful when you have tons of rules that make sense as groups. I'll leave the decision to you.
 
 <img src="assets/Custom-analytics-rule-5.png"  >
 
-1- You can receive an automated response that will take you to a logic app where you can decide what action to take when this rule is triggered.
+**1-** You can receive an automated response that will take you to a logic app where you can decide what action to take when this rule is triggered.
 
 In this case, I prefer sending an email to my manager about an analytics with a high severity and posting the threat to our team channel.
 
-2- When you're finished, you'll see a summary of the entire rule. Continue with the creation by clicking **Create.**
+**2-** When you're finished, you'll see a summary of the entire rule. Continue with the creation by clicking **Create.**
 
 <img src="assets/Custom-analytics-rule-6.png"  >
 
