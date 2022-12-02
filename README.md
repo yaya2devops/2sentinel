@@ -103,7 +103,7 @@ entityMappings:
 version: 1.0.1
 kind: Scheduled
 ```
-
+ 
 This query will require **Azure Active Directory** connector for it to perform.
 
 Go to Analytics but instead of templates, click **Create** then Scheduled query rule. 
