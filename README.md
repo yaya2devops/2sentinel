@@ -195,7 +195,7 @@ Click on **Edit**
 
 <br>
 
-**1-** Click on the code sign,  <br>
+**1-** Click on the **code <>**  <br>
 
 **2-** This will print you the editor where you can decide the type.     
 - For this demo we will use JSON, copy my [workbook](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/SentinelCosts.json) and paste it on your environement.
