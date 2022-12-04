@@ -6,6 +6,8 @@ Sentinel, in my experience, is excellent for increasing your employees' overall 
 <img src="assets/mainBan.png"  >
 
 
+> Maybe, a good introduction to the product before the technical ?
+
 #  Microsoft Sentinel Technical Procedure
 This technical documentation will walk you through the entire process, from setting up Sentinel to operating it and using its core features.
 ## Description
