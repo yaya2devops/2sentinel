@@ -19,6 +19,9 @@ We'll go over the preliminary steps for configuring the product.
 - Perform **analytics queries** to get alerted when threats appear.
 - Operate and create **workbooks** for insightful reports.
 
+
+> sentinel and loganalytics setup here.
+
 # Connectors
 The first step is to import the necessary connectors before running any queries on Sentinel.
 
