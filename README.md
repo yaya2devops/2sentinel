@@ -34,7 +34,7 @@ To get started with Sentinel you require to implement **Log analytics workspace.
 
 # Product Setup
 ### Goal:
-- Create Log Anlytics Workspace
+- Create Log Analytics Workspace
 - Create Microsoft Sentinel Instance
 
 <br>
