@@ -1,7 +1,6 @@
 #  Sentinel PoC Quickstart
 
-I had a great time bringing value with Sentinel, and here I will try to assist you in getting started with integrating this product into your business. 
-<br>Sentinel, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making, providing advanced insights and protect your entreprise from threats.
+I had a great time bringing value with Sentinel, and here I will try to assist you in getting started with integrating this product into your business. **This SIEM**, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making, providing advanced insights and protect your entreprise from threats.
 
 <img src="assets/mainBan.png"  >
 
