@@ -384,6 +384,6 @@ To make sure, you cut with all expenses.
 
 
 ## Closure
-That's it; your connectors and analytics should now be properly preconfigured. You also can add workbooks and create your own. This is a huge accomplishment! By following these simple steps, you have taken the first step in ensuring that your data is properly managed and monitored. You know also how to delete your product in case its required.
+That's it; your connectors and analytics should now be properly preconfigured. You are capable to add workbooks and create your own. This is a huge accomplishment! By following these simple steps, you have taken the first step in ensuring that your data is properly managed and monitored. You know also how to delete your product in case its required.
 
 
