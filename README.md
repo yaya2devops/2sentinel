@@ -313,8 +313,12 @@ Continue by entering the name of your workbook, the subscription, the RG, and th
 Finally Click **Apply**
 <img src="assets/workbooks/create-workbook-4.png"  >
 
+Your workbook will take effect and produce the desired results.
 
-That's how it's done. You can keep looking through the Microsoft repo for open source workbooks.
+<img src="https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Workbooks/Images/Preview/SentinelCostsBlack.png" >
+
+
+You can keep looking through the **Microsoft repo** for open source workbooks along my contribution.
 
 # Workbook Showcase
 
