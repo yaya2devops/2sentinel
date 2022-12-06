@@ -6,7 +6,6 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
 <img src="assets/mainBan.png"  >
 
 
-> Maybe, a good introduction to the product before the technical ?
 
 #  Microsoft Sentinel Technical Procedure
 This technical documentation will walk you through the entire process, from setting up Sentinel to operating it and using its core features.
@@ -20,10 +19,87 @@ We'll go over the preliminary steps for configuring the product.
 - Operate and create **workbooks** for insightful reports.
 
 
-> sentinel and loganalytics setup here.
+
+# Sentinel Workflow
+
+To get started with Sentinel you require to implement **Log analytics workspace.**
+
+ Than, you go and create a new Azure Sentinel resource on top of it. 
+ 
+ Once this has been done, the next step is to connect your data sources. This can be done by using either the Data Connectors library or by creating custom connectors. 
+ 
+ After connecting your data sources, you will then need to configure them so that they are sending data into your newly created workspace. 
+ 
+ Finally, you will want to create some queries and alerts so that you can start monitoring your system for issues and consult workbooks to help you decide.
+
+# Product Setup
+### Goal:
+- Create Log Anlytics Workspace
+- Create Microsoft Sentinel Instance
+
+<br>
+
+## Create Log Analytics Workspace
+**1-** Search for Log Analytics  Workspace in the Azure Portal.<br>
+**2-** Click on the service then click **Create** to create a new resource.
+
+<img src="assets/Setup/1-createLogAnalyticsWorkspace.png"  >
+
+<br>
+
+**1-** Specify the required subscription. <br>
+**2-** Choose your resource group, or create a new one for all related senitnel resources. <br>
+**3-** Name your workspace.<br>
+**4/5-** Pick the region and click **Review + Create** <br>
+<img src="assets/Setup/2-LOGcreationsteps.png"  >
+
+<br>
+
+- Wait some seconds for the validation to pass and click **Create.**
+
+<img src="assets/Setup/3-0-valid.png"  >
+
+<br>
+
+Once the creation is completed, you have to add sources to your workspace so that you can get data-in on Sentinel.
+
+- In Log Analytics Workspace, go to Diagnostic Settings.
+- Click Add **Diagnostic Setting**.
+<img src="assets/Setup/3-1-diagnosticsettings1.png"  >
+
+<br>
+
+**1-** Specify the types of log you want to have access to.<br>
+**2-** Send the logs to workspace you just created, you can consult the other options.<br>
+**3-** Pick a name for the setting.<br>
+**4-** Once finished, click **Save**
+<img src="assets/Setup/3-2-diagnosticsettings2.png"  >
+
+That's the required configuration for the **Log analytics workspace.**
+
+# Create Microsoft Sentinel Instance
+Once we have our workspace, we can go further and create Sentinel.
+
+- Search bar in the portal, write Sentinel.
+<img src="assets/Setup/4-searchSentinel.png"  >
+
+<br>
+
+- Click **Create Microsoft Sentinel**.
+<img src="assets/Setup/5-CreateSentinel.png"  >
+
+<br>
+
+- Specify the workspace we just created and click **Add.**
+<img src="assets/Setup/6-addworkspacetoSentinel.png"  >
+
+<br>
+
+- Microsoft Sentinel is Setup.
+<img src="assets/Setup/7-SentinelisSet.png"  >
 
 # Connectors
-The first step is to import the necessary connectors before running any queries on Sentinel.
+Once product is set, the first step is to import the necessary connectors before running any queries on Sentinel.
 
 ### Quickstart Connectors 
 - Office
