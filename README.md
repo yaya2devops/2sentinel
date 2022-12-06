@@ -1,18 +1,25 @@
-#  Sentinel PoC Quickstart
 
-I had a great time bringing value with Sentinel, and here I will try to assist you in getting started with integrating this product into your business. 
-<br>Sentinel, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making, providing advanced insights and protect your entreprise from threats.
+I had a great time bringing value with Sentinel, and here I will try to assist you in getting started with integrating this product into your business. **This SIEM**, in my experience, is excellent for increasing your employees' overall awareness asides from assisting in decision making, providing advanced insights and protect your entreprise from threats.
 
 <img src="assets/mainBan.png"  >
 
+<<<<<<< HEAD
 - [Sentinel PoC Quickstart](#sentinel-poc-quickstart)
+=======
+## Table of Contents
+>>>>>>> 402fb690791f1cd8d9b1f57bea713b0419d38db4
 - [Microsoft Sentinel Technical Procedure](#microsoft-sentinel-technical-procedure)
   - [Description](#description)
 - [Sentinel Workflow](#sentinel-workflow)
 - [Product Setup](#product-setup)
+<<<<<<< HEAD
     - [Goal:](#goal)
   - [Create Log Analytics Workspace](#create-log-analytics-workspace)
 - [Create Microsoft Sentinel Instance](#create-microsoft-sentinel-instance)
+=======
+  - [Create Log Analytics Workspace](#create-log-analytics-workspace)
+  - [Create Microsoft Sentinel Instance](#create-microsoft-sentinel-instance)
+>>>>>>> 402fb690791f1cd8d9b1f57bea713b0419d38db4
 - [Connectors](#connectors)
     - [Quickstart Connectors](#quickstart-connectors)
     - [Search for connectors](#search-for-connectors)
@@ -29,9 +36,13 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
   - [All In One Insights](#all-in-one-insights)
   - [Multi-Factor Authentification Insights](#multi-factor-authentification-insights)
   - [Conditionnal Access Insights](#conditionnal-access-insights)
+<<<<<<< HEAD
 - [Product Shutdown](#product-shutdown)
   - [Closure](#closure)
 
+=======
+  - [Closure](#closure)
+>>>>>>> 402fb690791f1cd8d9b1f57bea713b0419d38db4
 
 #  Microsoft Sentinel Technical Procedure
 This technical documentation will walk you through the entire process, from setting up Sentinel to operating it and using its core features.
@@ -59,11 +70,9 @@ To get started with Sentinel you require to implement **Log analytics workspace.
  Finally, you will want to create some queries and alerts so that you can start monitoring your system for issues and consult workbooks to help you decide.
 
 # Product Setup
-### Goal:
-- Create Log Anlytics Workspace
+#### In this section will go over
+- Create Log Analytics Workspace
 - Create Microsoft Sentinel Instance
-
-<br>
 
 ## Create Log Analytics Workspace
 **1-** Search for Log Analytics  Workspace in the Azure Portal.<br>
@@ -320,8 +329,12 @@ Continue by entering the name of your workbook, the subscription, the RG, and th
 Finally Click **Apply**
 <img src="assets/workbooks/create-workbook-4.png"  >
 
+Your workbook will take effect and produce the desired results.
 
-That's how it's done. You can keep looking through the Microsoft repo for open source workbooks.
+<img src="https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Workbooks/Images/Preview/SentinelCostsBlack.png" >
+
+
+You can keep looking through the **Microsoft repo** for open source workbooks along my contribution.
 
 # Workbook Showcase
 
