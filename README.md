@@ -47,7 +47,7 @@ We'll go over the preliminary steps for configuring the product.
 
 To get started with Sentinel you require to implement **Log analytics workspace.**
 
- Than, you go and create a new Azure Sentinel resource on top of it. 
+ Then, you go and create a new Azure Sentinel resource on top of it. 
  
  Once this has been done, the next step is to connect your data sources. This can be done by using either the Data Connectors library or by creating custom connectors. 
  
