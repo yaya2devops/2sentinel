@@ -3,23 +3,14 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
 
 <img src="assets/mainBan.png"  >
 
-<<<<<<< HEAD
-- [Sentinel PoC Quickstart](#sentinel-poc-quickstart)
-=======
+
 ## Table of Contents
->>>>>>> 402fb690791f1cd8d9b1f57bea713b0419d38db4
 - [Microsoft Sentinel Technical Procedure](#microsoft-sentinel-technical-procedure)
   - [Description](#description)
 - [Sentinel Workflow](#sentinel-workflow)
 - [Product Setup](#product-setup)
-<<<<<<< HEAD
-    - [Goal:](#goal)
-  - [Create Log Analytics Workspace](#create-log-analytics-workspace)
-- [Create Microsoft Sentinel Instance](#create-microsoft-sentinel-instance)
-=======
   - [Create Log Analytics Workspace](#create-log-analytics-workspace)
   - [Create Microsoft Sentinel Instance](#create-microsoft-sentinel-instance)
->>>>>>> 402fb690791f1cd8d9b1f57bea713b0419d38db4
 - [Connectors](#connectors)
     - [Quickstart Connectors](#quickstart-connectors)
     - [Search for connectors](#search-for-connectors)
@@ -36,13 +27,8 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
   - [All In One Insights](#all-in-one-insights)
   - [Multi-Factor Authentification Insights](#multi-factor-authentification-insights)
   - [Conditionnal Access Insights](#conditionnal-access-insights)
-<<<<<<< HEAD
 - [Product Shutdown](#product-shutdown)
   - [Closure](#closure)
-
-=======
-  - [Closure](#closure)
->>>>>>> 402fb690791f1cd8d9b1f57bea713b0419d38db4
 
 #  Microsoft Sentinel Technical Procedure
 This technical documentation will walk you through the entire process, from setting up Sentinel to operating it and using its core features.
