@@ -5,7 +5,30 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
 
 <img src="assets/mainBan.png"  >
 
-
+## Table of Contents
+- [Microsoft Sentinel Technical Procedure](#microsoft-sentinel-technical-procedure)
+  - [Description](#description)
+- [Sentinel Workflow](#sentinel-workflow)
+- [Product Setup](#product-setup)
+  - [Create Log Analytics Workspace](#create-log-analytics-workspace)
+  - [Create Microsoft Sentinel Instance](#create-microsoft-sentinel-instance)
+- [Connectors](#connectors)
+    - [Quickstart Connectors](#quickstart-connectors)
+    - [Search for connectors](#search-for-connectors)
+    - [The Connector page](#the-connector-page)
+- [Analytics Rules](#analytics-rules)
+  - [Built-In Rules](#built-in-rules)
+  - [Custom Analytics Rules](#custom-analytics-rules)
+- [Workbooks](#workbooks)
+  - [Built-In Workbooks](#built-in-workbooks)
+  - [Custom Workbooks](#custom-workbooks)
+- [Workbook Showcase](#workbook-showcase)
+  - [Azure Activity](#azure-activity)
+  - [Azure Active Directory Audit Insights](#azure-active-directory-audit-insights)
+  - [All In One Insights](#all-in-one-insights)
+  - [Multi-Factor Authentification Insights](#multi-factor-authentification-insights)
+  - [Conditionnal Access Insights](#conditionnal-access-insights)
+  - [Closure](#closure)
 
 #  Microsoft Sentinel Technical Procedure
 This technical documentation will walk you through the entire process, from setting up Sentinel to operating it and using its core features.
