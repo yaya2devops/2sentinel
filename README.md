@@ -382,7 +382,7 @@ To make sure, you cut with all expenses.
 - Lastly, check your RG, and terminate it to avoid any additionnal costs within its resources.
 <img src="assets/shutdown/13-deletionRG.png"  >
 
-- Confirm the deletion by clicking **Delete**.
+- Confirm the deletion by clicking **Delete**. <br>
 <img src="assets/shutdown/DeleteRG.png"  >
 
 
