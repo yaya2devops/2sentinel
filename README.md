@@ -34,7 +34,8 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
 
 
 # Architecture Overview
-The following is a simplified architecture for the technical process of the implementation.
+The following is a simplified architecture for the technical process of the implementation. <br>
+
 <img src="assets/architecture/ArchNoback.png"  >
 
 #  Microsoft Sentinel Technical Procedure
