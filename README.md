@@ -5,12 +5,14 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
 
 
 ## Table of Contents
+- [Architecture Overview](#architecture-overview)
 - [Microsoft Sentinel Technical Procedure](#microsoft-sentinel-technical-procedure)
   - [Description](#description)
 - [Sentinel Workflow](#sentinel-workflow)
 - [Product Setup](#product-setup)
+      - [In this section will go over](#in-this-section-will-go-over)
   - [Create Log Analytics Workspace](#create-log-analytics-workspace)
-  - [Create Microsoft Sentinel Instance](#create-microsoft-sentinel-instance)
+- [Create Microsoft Sentinel Instance](#create-microsoft-sentinel-instance)
 - [Connectors](#connectors)
     - [Quickstart Connectors](#quickstart-connectors)
     - [Search for connectors](#search-for-connectors)
@@ -29,6 +31,11 @@ I had a great time bringing value with Sentinel, and here I will try to assist y
   - [Conditionnal Access Insights](#conditionnal-access-insights)
 - [Product Shutdown](#product-shutdown)
   - [Closure](#closure)
+
+
+# Architecture Overview
+The following is a simplified architecture for the technical process of the implementation.
+<img src="assets/architecture/ArchNoback.png"  >
 
 #  Microsoft Sentinel Technical Procedure
 This technical documentation will walk you through the entire process, from setting up Sentinel to operating it and using its core features.
