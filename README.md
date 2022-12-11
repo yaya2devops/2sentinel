@@ -43,10 +43,11 @@ This technical documentation will walk you through the entire process, from sett
 
 We'll go over the preliminary steps for configuring the product.
 
-- Initialize the product on your entreprise Microsoft Azure tenant.
+- **Initialize** the product on your entreprise Microsoft Azure tenant.
 - Ingestion of the required **connectors**.
 - Perform **analytics queries** to get alerted when threats appear.
 - Operate and create **workbooks** for insightful reports.
+- When necessary, **delete** the product and its dependencies.
 
 
 
