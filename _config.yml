@@ -1,11 +1,11 @@
-title: Blog Series | Migration Setup
+title: Onboard to Microsoft Sentinel 
 
 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
- Expertise showcase, cloud series AWS Migration, VMware Migration and Microsoft Sentinel.
+Step by step Implementation of Azure Sentinel
 # Build settings
 
 theme: minima
