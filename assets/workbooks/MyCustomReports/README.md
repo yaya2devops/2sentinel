@@ -1,5 +1,5 @@
 
-# Ready-To-Use Workbooks
+#   Pre-made Workbooks
 
 - [Azure Activity](AzureActivity.json)
 - [Active Directory Audit Logs](aad-audit.json)
