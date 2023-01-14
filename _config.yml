@@ -5,7 +5,7 @@ title: Onboard to Microsoft Sentinel
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
- Step by step Implementation of Azure Sentinel
+ Implementing Microsoft Sentinel: A comprehensive guide
 # Build settings
 
 theme: minima
