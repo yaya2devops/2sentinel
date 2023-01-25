@@ -309,6 +309,7 @@ Click on **Edit**
 
 **2-** This will print you the editor where you can decide the type.     
 - For this demo we will use JSON, copy my [workbook](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/SentinelCosts.json) and paste it on your environment.
+- The workbook is merged to the official sentinel repo, you can have a look on the pull request from [here](https://github.com/Azure/Azure-Sentinel/pull/6574).
 
 **3-** Once done, click **Apply**   <br>
 
