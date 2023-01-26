@@ -34,7 +34,7 @@ Together, analytics rules and hunting provide a powerful combination for detecti
 
 #### There is more to learn.
 
-Sentinel also includes a variety of security tools, including security information and event management (SIEM), threat intelligence, and security automation.
+In summary, Sentinel includes a variety of security tools, including security information and event management (SIEM), threat intelligence, and security automation.
 
 These tools work in tandem to provide a comprehensive security solution that assists organizations in protecting themselves against cyber threats.
 
