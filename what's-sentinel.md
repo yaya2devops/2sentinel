@@ -38,4 +38,5 @@ Sentinel also includes a variety of security tools, including security informati
 
 These tools work in tandem to provide a comprehensive security solution that assists organizations in protecting themselves against cyber threats.
 
-Go on! Investigate Microsoft Sentinel and add value.🍀🍀🍀
+Go on! Investigate Microsoft Sentinel and add value. [This is a good place to start](https://github.com/Azure/Azure-Sentinel)🍀🍀🍀
+
