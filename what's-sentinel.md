@@ -1,10 +1,16 @@
 # About the product
 
-Microsoft Sentinel is a cloud-based security platform that allows businesses to detect and respond to security threats in real time. It analyzes data from various sources, including network traffic, user activity, and third-party security tools, using advanced machine learning and automation.
+**Microsoft Sentinel** or Azure Sentinel ( since it's inside Azure ) is a cloud-based security platform that allows businesses to detect and respond to security threats in real time. It analyzes data from various sources, including network traffic, user activity, and third-party security tools, using advanced machine learning and automation.
 
 Sentinel gives security teams a centralized view of the organization's security posture, allowing them to quickly identify and respond to potential threats. It also has incident management and response capabilities, allowing teams to investigate and resolve security incidents.
 
 
+Examine Microsoft Cybersecurity Reference Architectures to see how this critical product addresses cloud cybersecurity.
+
+<img src="assets/sentinelbigarea.png" width="600">
+
+
+Let us now go over some of the item's key components.
 
 ## Sentinel Workbooks
 
