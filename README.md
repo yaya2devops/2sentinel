@@ -391,7 +391,7 @@ This section is specifically designed for that purpose.
 
 Three things required termination when you're accomplished with Microsoft Sentinel to avoid any additional costs.
 - Azure Sentinel Instance
-- The Log Analytics Workspace
+- The Log Analytics Workspace and the related solutions
 - The Resource Group used
 <br>
 
