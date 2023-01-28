@@ -38,7 +38,7 @@ Having said that, Hunting enables security teams to search for and identify unkn
 Together, analytics rules and hunting provide a powerful combination for detecting and investigating potential threats.
 
 
-#### There is more to learn.
+## There is more to learn..
 
 In summary, Sentinel includes a variety of security tools, including security information and event management (SIEM), threat intelligence, and security automation.
 
