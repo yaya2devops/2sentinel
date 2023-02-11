@@ -27,7 +27,9 @@ Playbooks are a key feature of Sentinel that assist in the detection and investi
 
 
 ## Analytics Rules
-Another key feature, Analytics rules detect and alert on specific security events or behavioral patterns. These rules are built on machine learning algorithms and are intended to detect known security threats like malware or suspicious network activity. They can also be used to detect potential insider threats such as data theft or unauthorized use of privileged accounts. When a rule is triggered, an alert is generated that a security analyst can investigate.
+Another key feature, Analytics rules detect and alert on specific security events or behavioral patterns. These rules are built on machine learning algorithms and are intended to detect known security threats like malware or suspicious network activity. 
+
+They can also be used to detect potential insider threats such as data theft or unauthorized use of privileged accounts. When a rule is triggered, an alert is generated that a security analyst can investigate.
 
 
 ## Hunting
@@ -44,7 +46,14 @@ In summary, Sentinel includes a variety of security tools, security information 
 
 These tools work in tandem to provide a comprehensive security solution that assists organizations in protecting themselves against cyber threats.
 
-Go on! [Implement Microsoft Sentinel right now.](README.md#product-setup)  🍀
+Go on!
+
+Implement Microsoft Sentinel right now. 🍀
+
+<a href="README.md#product-setup">
+  <img src="https://w7.pngwing.com/pngs/702/302/png-transparent-red-button-push-button-red-button-miscellaneous-3d-computer-graphics-web-button.png" alt="Button" width="100" height="100">
+</a>
+
 
 
 
