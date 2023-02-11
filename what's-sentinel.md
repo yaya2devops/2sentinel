@@ -50,7 +50,7 @@ Go on!
 
 Implement Microsoft Sentinel right now. 🍀
 
-<a href="#product-setup">
+<a href="https://sentinel.yahya-abulhaj.dev/#product-setup">
   <img src="https://w7.pngwing.com/pngs/702/302/png-transparent-red-button-push-button-red-button-miscellaneous-3d-computer-graphics-web-button.png" alt="Button" width="100" height="100">
 </a>
 
